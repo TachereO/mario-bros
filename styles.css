@@ -46,3 +46,26 @@ p{
     font-size: large;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.bottom{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightgrey;
+    height: 4cm;
+}
+
+h3{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+input{
+    border: 3px solid red;
+    width: 10cm;
+    height: 1cm;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 1cm;
+}

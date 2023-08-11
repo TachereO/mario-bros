@@ -44,9 +44,11 @@ h1{
 
 
 p{
-    font-size: large;
+    font-size: 25px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: justify;
+    margin: 20px;
+    line-height: 40px;
 }
 
 .bottom{

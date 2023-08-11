@@ -56,6 +56,26 @@ img{
     border-bottom: 5px solid red;
 }
 
+.image1 img:hover{
+    border-top:  5px solid red;  
+    border-bottom: none;
+}
+
+.image2 img:hover{
+    border-top:  5px solid red;  
+    border-bottom: none;
+}
+
+.image3 img:hover{
+    border-top:  5px solid red;  
+    border-bottom: none;
+}
+
+.image4 img:hover{
+    border-top:  5px solid red;  
+    border-bottom: none;
+}
+
 .footer{
     display: flex;
     flex-direction: column;

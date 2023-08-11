@@ -5,13 +5,15 @@ h2{
     width: 7cm;
     color: white;
     height:1cm;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 .header{
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color: red;
+    width: 100%;
 }
 
 img{
